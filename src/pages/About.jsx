@@ -2,7 +2,7 @@ import React from "react";
 import musicImg from "../assets/music.png";
 import brain from "../assets/brainimg.png";
 import cursor from "../assets/cursorimg.png";
-import musicDownload from "../assets/musicDownload.png";
+import musicDownload from "../assets/musicdownload.png";
 import solo from "../assets/solo.jpg";
 import liveconcert from "../assets/liveconcert.jpg";
 import livestream from "../assets/livestream.jpg";
